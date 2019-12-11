@@ -1,6 +1,6 @@
 {
   "name": "totp-gen",
-  "version": "0.0.2",
+  "version": "0.1.2",
   "description": "A TOTP secret, token generator and verifier!",
   "main": "app.js",
   "directories": {
